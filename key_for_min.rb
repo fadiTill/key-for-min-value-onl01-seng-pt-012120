@@ -7,8 +7,8 @@ def key_for_min_value(name_hash)
   name_hash.each do |key,value|
 
     if low_value == nil
-      low_value == value
-      low_key == key
+      low_value = value
+      low_key = key
   binding.pry
   #if   price < price && price
   #puts name_hash"#{object}"
