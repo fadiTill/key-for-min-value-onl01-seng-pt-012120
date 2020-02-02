@@ -7,7 +7,8 @@ def key_for_min_value(name_hash)
   if   a  < b && c
 end
   puts ikea"#{object}"
-else nil
+else a > b && c
+  nil
 end
   end
 end
