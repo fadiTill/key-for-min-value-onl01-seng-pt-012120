@@ -9,7 +9,8 @@ def key_for_min_value(name_hash)
   if   a < b && c
   puts ikea"#{object}"
 else object = "#{}"
-  nils }
+  nils
+}
 end
   end
      end
