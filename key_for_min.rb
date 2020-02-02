@@ -13,5 +13,4 @@ else c.price < a.price && b.price
 end
   end
     end
-      end
-          end
+      
