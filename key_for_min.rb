@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
   name_hash.each do |object,price|
   if   price < price && price
   puts name_hash"#{object}"
-else  name_hash == {}
+else  name_hash = {}
   nil
 end
   end
