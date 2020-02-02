@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
   ikea.each do |object, price|
   if   price < price && price
   puts ikea"#{object}"
-else price  > price  && price 
+else object()
   nil
 end
   end
