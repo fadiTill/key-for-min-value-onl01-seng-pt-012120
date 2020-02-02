@@ -5,11 +5,11 @@ def key_for_min_value(name_hash)
   low_key = nil
   low_value = nil
   name_hash.each do |key,value|
-    binding.pry
+    
     if low_value == nil
       low_value == value
       low_key == key
-  #if   price < price && price
+  binding.pry#if   price < price && price
   #puts name_hash"#{object}"
 #else  name_hash == {}
   #nil
