@@ -6,6 +6,7 @@ def key_for_min_value(name_hash)
   low_value = nil
   name_hash.each do |key,value|
     binding.pry
+    if low_value == nil
   #if   price < price && price
   #puts name_hash"#{object}"
 #else  name_hash == {}
