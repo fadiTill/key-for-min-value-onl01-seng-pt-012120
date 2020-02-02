@@ -9,7 +9,8 @@ def key_for_min_value(name_hash)
     if low_value == nil
       low_value == value
       low_key == key
-  binding.pry#if   price < price && price
+  binding.pry
+  #if   price < price && price
   #puts name_hash"#{object}"
 #else  name_hash == {}
   #nil
