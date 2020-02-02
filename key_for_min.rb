@@ -10,7 +10,6 @@ def key_for_min_value(name_hash)
   puts ikea"#{object}"
 else object = "#{}"
   nils
-}
 end
   end
      end
