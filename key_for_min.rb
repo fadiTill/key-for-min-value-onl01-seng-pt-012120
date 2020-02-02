@@ -8,3 +8,4 @@ def key_for_min_value(name_hash)
   puts "#{object}"
 end
   end
+end 
