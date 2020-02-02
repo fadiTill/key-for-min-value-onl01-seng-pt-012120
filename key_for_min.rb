@@ -3,13 +3,7 @@
 
 def key_for_min_value(name_hash)
   ikea = {:chair => 25, :table => 85, :mattress => 450}
-  if ikea :chair <  ikea: table && ikea :mattress
-    puts :chair
-  elsif :table < :chair && :mattress
-    puts :table
-  else :mattress < :table && :chair
-    puts :matress
-end
-end
-end
-end
+ikea.each do |object, price|
+  if  a.price < b.price && c.price 
+  puts a.object
+  else b.price < a.price && b.price
