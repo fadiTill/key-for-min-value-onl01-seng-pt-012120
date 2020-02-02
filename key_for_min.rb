@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   ikea = {:chair => 25, :table => 85, :mattress => 450}
-  if ikea[:chair] <  ikea[:table] && ikea :mattress
+  if ikea[:chair] <  ikea[:table] && ikea [:mattress]
     puts :chair
   elsif :table < :chair && :mattress
     puts :table
