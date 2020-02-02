@@ -7,7 +7,7 @@ def key_for_min_value(name_hash)
   if   price < price && price
   puts ikea"#{object}"
 else object = "#{}"
-  nils
+  nil
 end
   end
      end
